@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="" />
+    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="Testdatei" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -35,17 +43,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603915812428</updated>
-      <workItem from="1603915816012" duration="343000" />
+      <workItem from="1603915816012" duration="751000" />
     </task>
+    <task id="LOCAL-00001" summary="Testdatei">
+      <created>1603916315336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603916315337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testdatei" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testdatei" />
   </component>
   <component name="WindowStateProjectService">
     <state x="844" y="400" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603915948367">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="844" y="400" key="#com.intellij.fileTypes.FileTypeChooser/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1603915948367" />
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2" timestamp="1603916323270">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1603916323270" />
   </component>
 </project>
