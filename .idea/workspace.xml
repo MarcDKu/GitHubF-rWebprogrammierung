@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="balöudoifhöaoiej" />
+    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="balöudoifhöaoiej">
+      <change beforePath="$PROJECT_DIR$/Frontend/Testwebseite.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Testwebseite.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
