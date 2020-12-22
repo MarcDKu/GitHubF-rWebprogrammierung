@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="balöudoifhöaoiej" />
+    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="balöudoifhöaoiej">
+      <change beforePath="$PROJECT_DIR$/HintergrundDaten/Testdatei.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HintergrundDaten/Testdatei.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <workItem from="1603915816012" duration="751000" />
       <workItem from="1604241760866" duration="1002000" />
       <workItem from="1605348166693" duration="64000" />
-      <workItem from="1608659264635" duration="1948000" />
+      <workItem from="1608659264635" duration="2342000" />
     </task>
     <task id="LOCAL-00001" summary="Testdatei">
       <created>1603916315336</created>
