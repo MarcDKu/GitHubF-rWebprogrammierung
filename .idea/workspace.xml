@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="Testdatei">
-      <change beforePath="$PROJECT_DIR$/Frontend/Testwebseite.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Testwebseite.html" afterDir="false" />
-    </list>
+    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="Ihr Pflaumen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603916315337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ihr Pflaumen">
+      <created>1608662789352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608662789352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,19 +94,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testdatei" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testdatei" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="844" y="400" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603915948367">
-      <screen x="0" y="0" width="2194" height="1194" />
-    </state>
-    <state x="844" y="400" key="#com.intellij.fileTypes.FileTypeChooser/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1603915948367" />
-    <state x="690" y="330" key="Vcs.Push.Dialog.v2" timestamp="1603916323270">
-      <screen x="0" y="0" width="2194" height="1194" />
-    </state>
-    <state x="690" y="330" key="Vcs.Push.Dialog.v2/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1603916323270" />
+    <MESSAGE value="Ihr Pflaumen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ihr Pflaumen" />
   </component>
 </project>
