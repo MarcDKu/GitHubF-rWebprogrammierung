@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="Testdatei">
-      <change beforePath="$PROJECT_DIR$/Frontend/Testwebseite.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Testwebseite.html" afterDir="false" />
+    <list default="true" id="40bd1f1e-d5b2-44f3-8d83-e3854c96a4ed" name="Default Changelist" comment="Das ist ein Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603915812428</updated>
       <workItem from="1603915816012" duration="751000" />
-      <workItem from="1604241760866" duration="363000" />
+      <workItem from="1604241760866" duration="1002000" />
+      <workItem from="1605348166693" duration="64000" />
+      <workItem from="1608659264635" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="Testdatei">
       <created>1603916315336</created>
@@ -73,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603916315337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Das ist ein Test">
+      <created>1604242406856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604242406856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,19 +98,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testdatei" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testdatei" />
+    <MESSAGE value="Das ist ein Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Das ist ein Test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="844" y="400" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603915948367">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="844" y="400" key="#com.intellij.fileTypes.FileTypeChooser/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1603915948367" />
-    <state x="690" y="330" key="Vcs.Push.Dialog.v2" timestamp="1603916323270">
+    <state x="213" y="102" width="1755" height="983" key="DiffContextDialog" timestamp="1604242776232">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="690" y="330" key="Vcs.Push.Dialog.v2/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1603916323270" />
+    <state x="213" y="102" width="1755" height="983" key="DiffContextDialog/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1604242776232" />
+    <state x="606" y="242" key="SettingsEditor" timestamp="1608659295283">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="606" y="242" key="SettingsEditor/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1608659295283" />
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2" timestamp="1604242619032">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="330" key="Vcs.Push.Dialog.v2/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1604242619032" />
+    <state x="915" y="513" width="363" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604242693760">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="915" y="513" width="363" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-679.-1080.1920.1010/0.0.2194.1194@0.0.2194.1194" timestamp="1604242693760" />
   </component>
 </project>
